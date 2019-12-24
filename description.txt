@@ -1,0 +1,13 @@
+This mod adds a pet duck.
+
+To craft the summon item you will need : 
+  1) an anvil
+  2) 5 gold bars
+  3) 5 fallen stars
+  4) a white duck (caught with a Bug Net)
+
+I created this mod because my friend really wanted a pet duck.
+This is also my first mod.
+
+Enjoy !
+

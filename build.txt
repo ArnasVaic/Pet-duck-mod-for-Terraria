@@ -1,0 +1,3 @@
+displayName = PetDuck
+author = SAN'RA
+version = 0.1
